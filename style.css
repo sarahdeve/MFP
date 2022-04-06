@@ -1,20 +1,20 @@
- /* *
+ *
  {
      margin: 0;
      padding: 0;
      box-sizing: border-box;
      text-decoration: none;
      font-family: 'poppins', sans-serif;
- }    */
+ }   
 
 
     /* Second styling part of the login details */
     body {
         /* background-color: black; */
-        background-image: url(./images/Chat.jpg);
+        background-image: url(./images/chat10.jpg);
         /* display: flex; */
-        /* align-items: center;
-        justify-content: center; */
+        align-items: center;
+        justify-content: center;
         /* min-height: 100vh; */
         /* background: #ada3a3; */
     }
